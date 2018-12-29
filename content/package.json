@@ -1,0 +1,13 @@
+{
+  "name": "cherry-picked.ir",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Mojtaba Seyedi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-rename": "^1.2.2"
+  },
+  "dependencies": {}
+}
