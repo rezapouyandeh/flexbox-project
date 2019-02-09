@@ -2,7 +2,8 @@
 
 Home Page Design(CSS3):
 
-*** Flexbox
-*** Responsive
+* Flexbox
+
+* Responsive
 
 Design By : Reza PK
